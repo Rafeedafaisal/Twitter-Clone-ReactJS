@@ -1,0 +1,73 @@
+body {
+    background-color: #fff;
+    color:#1c1e21;
+
+}
+
+.card {
+    width: 400px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+/* .btr {
+    border-top-right-radius: 5px !important
+}
+
+.btl {
+    border-top-left-radius: 5px !important
+} */
+
+.btn-dark {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd
+}
+
+.btn-dark:hover {
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd
+}
+/* 
+.nav-pills {
+    display: table !important;
+    width: 100%
+} */
+
+/* .nav-pills .nav-link {
+    border-radius: 0px;
+    border-bottom: 1px solid #0d6efd40
+} */
+
+/* .nav-item {
+    display: table-cell;
+    background: #0d6efd2e
+} */
+
+.form {
+    padding: 10px;
+    height: 300px;
+    /* box-shadow:4px gray; */
+    
+}
+
+.form input {
+    margin-bottom: 12px;
+    border-radius: 5px;
+    height: 50px;
+
+}
+
+.form input:focus {
+    box-shadow: none
+}
+
+.form button {
+    margin-top: 20px
+}
+#twit{
+    color: 	#1DA1F2;
+    font-size: 55px;
+    font-weight: bolder;
+}

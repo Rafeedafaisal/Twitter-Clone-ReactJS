@@ -1,0 +1,16 @@
+#online{
+    height:35px;
+    width: 35px;
+    border-radius: 50px;
+    /* border: 1px solid white; */
+}
+#on{
+    color:limegreen;
+    font-size: 12px;
+    position: absolute;
+    margin-left: -30px;
+    margin-top: 7px;
+    /* padding: 10px;*/
+    
+
+}

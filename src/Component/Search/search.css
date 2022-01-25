@@ -1,0 +1,19 @@
+#ser
+{
+    border-radius: 20px;
+    background-color: rgb(221, 216, 216);
+}
+/* #searchdiv{
+    Overflow-y:scroll; 
+    height: 620px;
+    
+   position: fixed;
+   
+} */
+/* #searchdiv::-webkit-scrollbar {
+    display: none;
+} */
+#searchdiv{
+    padding-top: 50px;
+    /* position: fixed; */
+}

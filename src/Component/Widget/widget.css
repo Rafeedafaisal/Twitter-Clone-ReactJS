@@ -1,0 +1,17 @@
+#widdiv{
+    Overflow-y:scroll; 
+    height: 500px;
+    /* overflow-x: hidden; */
+   position: fixed;
+   
+   
+}
+#divsearch{
+    position: sticky;
+}
+#widdiv::-webkit-scrollbar {
+    display: none;
+}
+#allwid{
+    position:fixed;
+}

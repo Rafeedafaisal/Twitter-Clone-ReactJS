@@ -1,0 +1,21 @@
+/* div{
+   padding-bottom: 20px;
+} */
+/* #more{
+    border: solid 1px black;
+    border-radius: 50%;
+} */
+i{
+    padding: 16px;
+}
+#sidediv{
+    Overflow-y:scroll; 
+    height: 560px;
+    /* -ms-overflow-style: none;  */
+    position: fixed;
+   
+    
+}
+#sidediv::-webkit-scrollbar {
+    display: none;
+}
